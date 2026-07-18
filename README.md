@@ -6,6 +6,7 @@ Este proyecto consiste en un programa desarrollado en C# que utiliza estructuras
 El programa solicita el nombre de cada estudiante y cuatro calificaciones, calcula el promedio y determina si el estudiante aprobó o reprobó. Finalmente, muestra toda la información organizada en forma de tabla.
 
 Capturas de pantalla
+
 Escenario 1
 
 
