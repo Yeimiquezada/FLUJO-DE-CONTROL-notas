@@ -7,14 +7,15 @@ El programa solicita el nombre de cada estudiante y cuatro calificaciones, calcu
 
 Capturas de pantalla
 Escenario 1
+
+
 <img width="584" height="362" alt="image" src="https://github.com/user-attachments/assets/94883f50-372c-4d03-acdb-c47b5c0afc3b" />
 
 
-
-
 Escenario 2
-<img width="715" height="256" alt="image" src="https://github.com/user-attachments/assets/7da0bd3c-8afe-4966-aa12-7bf7d82cbe6f" />
 
+
+<img width="715" height="256" alt="image" src="https://github.com/user-attachments/assets/7da0bd3c-8afe-4966-aa12-7bf7d82cbe6f" />
 
 
 Integrantes
